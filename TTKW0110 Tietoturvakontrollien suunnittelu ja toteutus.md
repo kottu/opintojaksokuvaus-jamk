@@ -14,7 +14,8 @@ TTKW0110
 
 Tutkinnon vaihtoehtoiset ammattiopinnot (W)
 
-minor professional studies
+minor professional studies //Elective Professional
+Studies (W) näyttäisi olevan käytetty//
 
 ## Kohderyhmä/Taso / Target Group/Level of Course Unit	
 
@@ -26,7 +27,7 @@ Bachelor’s degree
 
 3. vuosi, 3. lukukausi ja 4. lukukausi
 
-3rd year, 3rd semester and 4th semester
+3rd year, 3rd and 4th semester
 
 ## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
@@ -60,7 +61,7 @@ TTTS0600 Corporate Networks
 
 Opiskelija ymmärtää eri tietoturvakontrollien merkityksen yritysten kriittisten tietoteknisten järjestelmien suojaamisessa. Opiskelija käsittää teknisen auditoinnin tarkoituksen ympäristölle. Opiskelija osaa toteuttaa eri tietoturvakontrolleja suojellakseen yrityksen kriittisiä tietoteknisiä järjestelmiä. 
 
-The student understands the meaning of various data security controls in the protection of a companys critical information systems. Student understands the purpose of a technical audit for a environment. The students knows how to implement various data security controls to protect a companys critical information systems. 
+The student understands the meaning of various data security controls in the protection of a company's critical information systems. The student understands the purpose of a technical audit for an environment. The students knows how to implement various data security controls to protect a company's critical information systems. 
 
 ## Osaamiset / Competences
 
@@ -68,7 +69,7 @@ EU-KN: EUR-ACE Tieto ja ymmärrys
 EU-EE: EUR-ACE Tekninen suunnittelu
 EU-ER: EUR-ACE Tekniikan soveltaminen käytäntöön
 
-EU-KN: EUR-ACE Knowledge and understanding
+EU-KN: EUR-ACE Knowledge and Understanding
 EU-EE: EUR-ACE Engineering Design
 EU-ER: EUR-ACE Engineering Practice
 
@@ -81,7 +82,7 @@ Opintojakso sisältää eri tietoturvakontrollien suunnittelun ja toteutuksen ku
 + aktiivilaitteiden kovennus
 + julkisen avaimen infrastruktuuri
 
-The course contains design and implementation of various data security controls in a real, virtualized network environment, but with a imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations. E.g. 
+The course contains design and implementation of various data security controls in a real, virtualized network environment, with an imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations. E.g. 
 
 + Firewalls and network segmenting
 + Remote workers and Virtual Private Network -connections
@@ -92,7 +93,7 @@ The course contains design and implementation of various data security controls 
 
 Opettajan jakama materiaali
 
-Material provided by lecturer
+Material provided by the lecturer
 
 ## Tukimateriaali / Recommended Reading Material
 
@@ -104,6 +105,8 @@ The course book is presented at the beginning of the course.
 
 Tentti 30% 
 Harjoitustyöt 70%
+Exam 30%
+Assignments 70%
 
 ## Opintojakson kuormittavuus tunteina / Student Workload in Hours
 
@@ -166,12 +169,12 @@ Opiskelija osaa käyttöönottaa joitain suunnittelemiansa tietoturvakontrolleja
 Hylätty 0: Ei hallitse aihealuetta
 
 Excellent 5: 
-The student shows in practice that he or she knows and understands theory on data security control design and implementation in an environment exceptionally. 
-The student can exceptionally design data security controls needed in an environment. 
+The student shows in practice that he or she knows and understands the theory on data security control design and implementation in an environment exceptionally. 
+The student can exceptionally design data security controls needed in an environment. //exceptionally well
 The student can exceptionally well implement his or her data security control designs in practice in a technical environment.
 
 Very good 4: 
-The student shows in practice that he or she knows and understands theory on data security control design and implementation in an environment very well. 
+The student shows in practice that he or she knows and understands the theory on data security control design and implementation in an environment very well. 
 The student can commendably design data security controls needed in an environment. 
 The student can commendably implement his or her data security control designs in practice in a technical environment.
 
